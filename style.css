@@ -432,12 +432,7 @@ body {
 }
 
 .pera {
-  width: 700px;
-  align-items: center;
-  justify-content: center;
-  padding-left: 300px;
-  font-weight: bold;
-  font-size: 30px;
+ 
 }
 
 .main-case{
@@ -555,5 +550,5 @@ gap: 30px;
 input{
  padding: 10px;
  display: flex;
- border-radius:6px;
+ border-radius: 6px;
 }
