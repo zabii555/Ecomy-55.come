@@ -102,10 +102,7 @@ body {
   flex-direction: column;
   gap: 5px;
 }
-
-.form-input label {
   
-}
 .form-input input {
   padding: 10px;
   border: 1px solid #ccc;
@@ -429,10 +426,6 @@ body {
 .rating-color {
   font-weight: bold;
   font-size: 40px;
-}
-
-.pera {
- 
 }
 
 .main-case{
